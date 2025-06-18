@@ -1,16 +1,29 @@
-## Hi there 👋
+# 👋 안녕하세요! 저는 suhyeon57입니다.
 
-<!--
-**suhyeon57/suhyeon57** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+프론트엔드 개발을 사랑하고,  
+특히 React와 JavaScript로 멋진 웹 경험을 만드는 걸 좋아합니다.  
+코딩할 때 음악을 곁들이는 걸 즐기며,  
+좋은 UI/UX와 깔끔한 코드를 추구합니다! 🎧
 
-Here are some ideas to get you started:
+## 🛠️ 주요 기술
+- React (리액트)
+- JavaScript (자바스크립트)
+- HTML/CSS
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🎵 About Me
+- 음악을 들으며 개발하는 시간이 제일 행복해요!
+- 새로운 기술을 배우는 걸 좋아합니다.
+- 사용자에게 즐거움을 주는 웹 서비스를 만들고 싶어요.
+
+## 🌱 최근 관심사
+- 최신 프론트엔드 트렌드
+- 성능 최적화
+- 음악 추천 서비스 만들기 (언젠가 도전해보고 싶어요!)
+
+## 📫 연락하기
+아직 소셜 링크가 없다면, [GitHub 이슈](https://github.com/suhyeon57/suhyeon57/issues)로 언제든 메시지 남겨주세요!
+
+---
+
+함께 성장하는 개발자를 꿈꿉니다.  
+방문해주셔서 감사합니다! 🙌
